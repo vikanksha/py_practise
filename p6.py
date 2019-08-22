@@ -5,6 +5,6 @@ def no(a,b):
     sum2 = (a%b)
     print(sum2)
     print(divmod(a,b))
-    
+    print(sum2)
 no(177,10)
 
